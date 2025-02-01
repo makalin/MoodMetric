@@ -14,8 +14,8 @@ To use MoodMetric, you need to have Python installed on your system. Follow thes
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/moodmetric.git
-   cd moodmetric
+   git clone https://github.com/makalin/MoodMetric.git
+   cd MoodMetric
    ```
 
 2. **Install the required dependencies**:
